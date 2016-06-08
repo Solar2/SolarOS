@@ -1,0 +1,15 @@
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\SolarOS(beta).dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\SolarOS(beta).pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Core.dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Hardware.dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.System.dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Common.Extensions.dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Core.pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Hardware.pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.System.pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\bin\Debug\Cosmos.Common.Extensions.pdb
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\obj\Debug\SolarOS(beta).csprojResolveAssemblyReference.cache
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\obj\Debug\SolarOS(beta).dll
+C:\Users\Sonny\Documents\Visual Studio 2013\Projects\SolarOS(beta)\SolarOS(beta)\obj\Debug\SolarOS(beta).pdb
